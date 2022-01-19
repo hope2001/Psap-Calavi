@@ -479,22 +479,22 @@ section {
 /*--------------------------------------------------------------
 # dernieres infos
 --------------------------------------------------------------*/
-.about .content h3 {
+.deniinfo .content h3 {
   font-weight: 600;
   font-size: 26px;
 }
-.about .content ul {
+.deniinfo .content ul {
   list-style: none;
   padding: 0;
 }
-.about .content ul li {
+.deniinfo .content ul li {
   padding-left: 28px;
   position: relative;
 }
-.about .content ul li + li {
+.deniinfo .content ul li + li {
   margin-top: 10px;
 }
-.about .content ul i {
+.deniinfo .content ul i {
   position: absolute;
   left: 0;
   top: 2px;
@@ -502,10 +502,10 @@ section {
   color: #3498db;
   line-height: 1;
 }
-.about .content p:last-child {
+.deniinfo .content p:last-child {
   margin-bottom: 0;
 }
-.about .content .btn-learn-more {
+.deniinfo .content .btn-learn-more {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
@@ -521,7 +521,7 @@ section {
   margin-top: 6px;
   border: 2px solid #3498db;
 }
-.about .content .btn-learn-more:hover {
+.deniinfo .content .btn-learn-more:hover {
   background: #3498db;
   color: #fff;
   text-decoration: none;
