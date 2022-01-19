@@ -525,7 +525,8 @@ section {
   border: 2px solid brown;
 }
 .deniinfo .content .btn-learn-more:hover {
-  background: #3498db;
+  /*background: #3498db;*/
+  background: brown;
   color: #fff;
   text-decoration: none;
 }
